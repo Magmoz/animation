@@ -45,3 +45,6 @@ Activate an animation on scroll
 	</script>
 
 Licensed under the MIT.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Magmoz/animation/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
